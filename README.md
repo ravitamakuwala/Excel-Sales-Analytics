@@ -28,6 +28,14 @@
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
+## Finance Report :
+
+- **Additional Reports Uploaded:** 
+
+    **1.** Create a _[Gross Margin% by markets](https://github.com/ravitamakuwala/Excel-Sales-Analytics/blob/main/GM%25%20by%20Quarters%20(sub_zone)_p.pdf)_ 
+    **2.** Create a _[Customer Net Sales Performance-India ](https://github.com/ravitamakuwala/Excel-Sales-Analytics/blob/main/India_Customer%20Net%20Sales_p.pdf)_ 
+    **3.** Create a _[Scenario Planning Tool- Customer Disount Approval](https://github.com/ravitamakuwala/Excel-Sales-Analytics/blob/main/Scenario%20Planning%20Tool_Customer%20Discount%20Approval_p.pdf)_ 
+
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
