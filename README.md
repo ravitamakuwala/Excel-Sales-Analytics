@@ -30,10 +30,12 @@
 
 ## Finance Report :
 
-- **Additional Reports Uploaded:** 
+- **Additional Work:** 
 
-    **1.** Create a _[Gross Margin% by markets](https://github.com/ravitamakuwala/Excel-Sales-Analytics/blob/main/GM%25%20by%20Quarters%20(sub_zone)_p.pdf)_ 
-    **2.** Create a _[Customer Net Sales Performance-India ](https://github.com/ravitamakuwala/Excel-Sales-Analytics/blob/main/India_Customer%20Net%20Sales_p.pdf)_ 
+    **1.** Create a _[Gross Margin% by markets](https://github.com/ravitamakuwala/Excel-Sales-Analytics/blob/main/GM%25%20by%20Quarters%20(sub_zone)_p.pdf)_
+  
+    **2.** Create a _[Customer Net Sales Performance-India ](https://github.com/ravitamakuwala/Excel-Sales-Analytics/blob/main/India_Customer%20Net%20Sales_p.pdf)_
+  
     **3.** Create a _[Scenario Planning Tool- Customer Disount Approval](https://github.com/ravitamakuwala/Excel-Sales-Analytics/blob/main/Scenario%20Planning%20Tool_Customer%20Discount%20Approval_p.pdf)_ 
 
 
